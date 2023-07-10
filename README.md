@@ -11,7 +11,7 @@ can use this as a cgi-bin utility.
 
 ## Install
 
-```sh
+```console
 git clone git@github.com:mitjafelicijan/gddg.git
 cd gddg
 go install .
