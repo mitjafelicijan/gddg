@@ -107,5 +107,5 @@ the utility it will use that as a search term.
 ## License
 
 [gddg](https://github.com/mitjafelicijan/gddg) was written by [Mitja
-Felicijan](https://mitjafelicijan.com) and is released under the BSD two-clause
+Felicijan](https://mitjafelicijan.com) and is released under the BSD zero-clause
 license, see the LICENSE file for more information.
